@@ -5,7 +5,7 @@
 ![lol](https://github.com/Raphael0010/RetroEliteCracked/blob/master/screens/mdr.PNG?raw=true)
 
 # RetroEliteCracked
-Amity est un cuck, ça déjà c'est un fait, faut l'savoir
+Amity vous propose un bot gratuit payant, alors on fait notre devoir de nous le vous proposez gratuitement :) 
 
 ### Tu crois que j'upload un virus ?
 
