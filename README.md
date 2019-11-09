@@ -2,7 +2,7 @@
 ![lol](https://github.com/Raphael0010/RetroEliteCracked/blob/master/screens/proof.PNG?raw=true)
 ## Attention il faut la dll et le exe au même endroit avant de lancer le .exe
 
-![lol](https://github.com/Raphael0010/RetroEliteCracked/blob/master/mdr.PNG?raw=true)
+![lol](https://github.com/Raphael0010/RetroEliteCracked/blob/master/screens/mdr.PNG?raw=true)
 
 # RetroEliteCracked
 Amity est un cuck, ça déjà c'est un fait, faut l'savoir
